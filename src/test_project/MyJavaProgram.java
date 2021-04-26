@@ -5,7 +5,10 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
-
+/**
+ * Simple program to convert to/from a Date/string.
+ *
+ */
 public class MyJavaProgram {
 
 	public static void main(String[] args) throws ParseException {
